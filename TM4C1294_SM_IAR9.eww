@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Projects\aapcs\aapcs.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\asm_example\asm_example.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\exceptions_sim\exceptions_sim.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\gpio\gpio.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\gpio2\gpio2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\gpio_int\gpio_int.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\load_store\load_store.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\uart\uart.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\uart2\uart2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
