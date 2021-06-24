@@ -5,7 +5,7 @@
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\src\asm.s</file>
+            <file>$PROJ_DIR$\..\aapcs\src\main.c</file>
         </outputs>
     </configuration>
     <configuration>
